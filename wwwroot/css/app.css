@@ -142,3 +142,6 @@ code {
 :root {
 	--rz-text-font-family: "Inter", serif !important;
 }
+.radzen-footer {
+    position: relative; /* not fixed */
+}

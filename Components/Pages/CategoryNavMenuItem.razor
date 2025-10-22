@@ -49,17 +49,13 @@
                 .ToHashSet()
                 ?? new();
 
-            List<string>? NestedMarkdownPostsStandalonesRemoved = NestedMarkdownPosts.Value?
-                .Where(path => !_standaloneMarkdownPosts.Contains(Path.GetFileNameWithoutExtension(path)))
-                .ToList();
-
-            List<string>? apexCategoryRemovedPaths = NestedMarkdownPostsStandalonesRemoved?
+            List<string>? NestedMarkdownPostsApexCategoryRemovedPaths = NestedMarkdownPosts.Value?
                 .Select(p => p.Replace($"{NestedMarkdownPosts.Key}/", ""))
                 .ToList()
                 ?? new();
 
             int indexToSplitAt = 0;
-            _nestedMarkdownPosts = apexCategoryRemovedPaths
+            _nestedMarkdownPosts = NestedMarkdownPostsApexCategoryRemovedPaths
                 .Where(path => path.Contains('/'))
                 .GroupBy(
                     path => path.Split('/')[indexToSplitAt],
