@@ -11,3 +11,8 @@
 - [https://judojj.com/](https://judojj.com/)
 - [https://sec-consult.com/blog/](https://sec-consult.com/blog/)
 - [https://www.freedesktop.org/wiki/](https://www.freedesktop.org/wiki/)
+- [https://www.aukfood.fr/](https://www.aukfood.fr/)
+- [https://ipwithease.com/tmos-components-of-big-ip/](https://ipwithease.com/tmos-components-of-big-ip/)
+- [https://www.whois.com/](https://www.whois.com/)
+- [https://tetragon.io/](https://tetragon.io/)
+- [https://www.collaboraonline.com/](https://www.collaboraonline.com/)
