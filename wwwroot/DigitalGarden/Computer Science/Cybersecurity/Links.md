@@ -1,5 +1,7 @@
-# Test
+# Links
 
+- [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [https://github.com/vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 - [arXiv](https://arxiv.org/)
 - [Computer Science](https://info.arxiv.org/help/cs/index.html)
 - [https://insinuator.net/](https://insinuator.net/)
