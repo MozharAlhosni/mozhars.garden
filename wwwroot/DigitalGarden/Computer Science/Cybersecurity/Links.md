@@ -1,6 +1,8 @@
 # Links
 
 - [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [https://github.com/notthehiddenwiki/NTHW](https://github.com/notthehiddenwiki/NTHW)
+- [https://github.com/Berkanktk/CyberSecurity/](https://github.com/Berkanktk/CyberSecurity/)
 - [https://github.com/vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 - [arXiv](https://arxiv.org/)
 - [Computer Science](https://info.arxiv.org/help/cs/index.html)
@@ -17,3 +19,4 @@
 - [https://www.whois.com/](https://www.whois.com/)
 - [https://tetragon.io/](https://tetragon.io/)
 - [https://www.collaboraonline.com/](https://www.collaboraonline.com/)
+- [https://workbench.cisecurity.org/](https://workbench.cisecurity.org/)

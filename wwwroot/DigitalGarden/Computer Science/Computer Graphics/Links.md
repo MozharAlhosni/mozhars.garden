@@ -7,3 +7,6 @@
 - [https://learnopengl.com/](https://learnopengl.com/)
 - [https://webglfundamentals.org/](https://webglfundamentals.org/)
 - [https://szeliski.org/Book/](https://szeliski.org/Book/)
+- [https://www.color.org/index.xalter](https://www.color.org/index.xalter)
+- [https://troff.org/](https://troff.org/)
+- [https://cmd.inp.nsk.su/old/cmd2/manuals/gnudocs/gnudocs/uucp/uucp_86.html](https://cmd.inp.nsk.su/old/cmd2/manuals/gnudocs/gnudocs/uucp/uucp_86.html)

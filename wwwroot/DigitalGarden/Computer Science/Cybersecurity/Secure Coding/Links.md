@@ -12,3 +12,7 @@
 - [https://www.testsprite.com/](https://www.testsprite.com/)
 - [https://www.coderabbit.ai/](https://www.codacy.com/)
 - [https://www.jetbrains.com/qodana/](https://www.jetbrains.com/qodana/)
+- [https://owaspsamm.org/resources/pdf/](https://owaspsamm.org/resources/pdf/)
+- [https://www.sgs.com/en/services/lince-certification](https://www.sgs.com/en/services/lince-certification)
+- [https://www.jtsec.es/files/CCN-LINCE-002_v0.1_final_EN.pdf](https://www.jtsec.es/files/CCN-LINCE-002_v0.1_final_EN.pdf)
+- [https://commoncriteriaportal.org/files/ccfiles/CC2022PART1R1.pdf](https://commoncriteriaportal.org/files/ccfiles/CC2022PART1R1.pdf)

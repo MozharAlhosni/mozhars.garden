@@ -8,3 +8,4 @@
 - [https://paul-moore.com/blog/](https://paul-moore.com/blog/)
 - [https://robert.penz.name/](https://robert.penz.name/)
 - [https://major.io/](https://major.io/)
+- [https://wiki.termux.com/wiki/PRoot](https://wiki.termux.com/wiki/PRoot)
